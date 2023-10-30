@@ -1,2 +1,2 @@
-# Stage-A-Hamoye-Internship-Python-Programming---Quiz
+# Hamoye-Internship-Python-Programming---Quiz
 Stage A Hamoye Internship Python Programming - Quiz
